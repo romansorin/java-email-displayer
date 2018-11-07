@@ -7,9 +7,8 @@ to practice use of API and object-oriented structure.
 ## Getting Started
 
 For simply running the application, no changes are required. Credentials are specified as:
-Username: your_email OR your_email@gmail.com (application takes care of domain appending)
-Password: IMPORTANT! Use an APPLICATION password generated inside of your Google account for the password. If you are unaware
-of how to generate this password/key, please visit https://myaccount.google.com/apppasswords.
+#### Username: your_email OR your_email@gmail.com (application takes care of domain appending).
+#### Password: IMPORTANT! Use an APPLICATION password generated inside of your Google account for the password. If you are unaware of how to generate this password/key, please visit https://myaccount.google.com/apppasswords.
 
 ### Prerequisites
 
