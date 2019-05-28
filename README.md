@@ -17,7 +17,7 @@ classes. No GUI is available.
 
 ## Built With
 
-* [JavaMail](https://www.oracle.com/technetwork/java/javamail/index.html) - The framework used for developing Java-based e-mail/messaging applications
+* [JavaMail](https://www.oracle.com/technetwork/java/javamail/index.html) - The API used for developing Java-based e-mail/messaging applications
 
 ## Authors
 
